@@ -11,15 +11,18 @@ Files used:
 * T19B_Moss_Identification__since_2009__11290156903414781363
 
 Spatial coverage: North Saskatchewan and Red Deer Land-use Framework regions.
+
 Source: ABMI Data Portal. Retrieved April 8, 2026.
 https://abmi.ca/data-portal/
 
 Environment and Climate Change Canada. Historical Climate Data: Daily Weather Observations (2010–2019).
+
 Stations used:
 * Red Deer A (Station ID 2134, 2010–2013)
 * Red Deer Regional A (Station ID 51440, 2014–2019)
 
 Parameters: daily observations (timeframe = 2), CSV format.
+
 Derived variables: mean summer temperature, growing season precipitation, frost-free days, and spring temperature anomaly.
 
 Retrieved April 2026 from:
