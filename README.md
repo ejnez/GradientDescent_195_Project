@@ -11,7 +11,6 @@ Files used:
 * T19B_Moss_Identification__since_2009__11290156903414781363
 
 Spatial coverage: North Saskatchewan and Red Deer Land-use Framework regions.
-
 Source: ABMI Data Portal. Retrieved April 8, 2026.
 https://abmi.ca/data-portal/
 
