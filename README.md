@@ -5,10 +5,13 @@ Alberta Biodiversity Monitoring Institute. (2021). Terrestrial Field Data Collec
 https://abmi.ca/publication/601.html
 
 Alberta Biodiversity Monitoring Institute. Raw Bryophytes Dataset (Rotation 1 and Rotation 2).
+
 Files used:
 * T01A_Site_Physical_Characteristics_2692088856810991747
 * T19B_Moss_Identification__since_2009__11290156903414781363
+
 Spatial coverage: North Saskatchewan and Red Deer Land-use Framework regions.
+
 Source: ABMI Data Portal. Retrieved April 8, 2026.
 https://abmi.ca/data-portal/
 
@@ -19,6 +22,7 @@ Stations used:
 
 Parameters: daily observations (timeframe = 2), CSV format.
 Derived variables: mean summer temperature, growing season precipitation, frost-free days, and spring temperature anomaly.
+
 Retrieved April 2026 from:
 https://climate.weather.gc.ca/climate_data/bulk_data_e.html
 
