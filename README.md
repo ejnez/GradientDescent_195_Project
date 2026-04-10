@@ -2,19 +2,19 @@
 
 ## Everything that contains our codes and interpretations
 
-# Preprocessing.ipynb - Erika
+### Preprocessing.ipynb - Erika
 This file deals with all of the datasets and merges them together for the EDA. Datasets are contained in files named DatasetXData where X is a letter A-C.
 
 Justifications and summary for our process is contained in labeled mds.
 
 The results of preprocessing.ipynb are all put instead of the preprocessing_results folder.
 
-# EDA.ipynb - Erika
+### EDA.ipynb - Erika
 This file performs all of the statistical computations before making the prediction models. It let us know what variable to put inside of the prediction models, and gave a gist of the outcome.
 
 All exploratory Data Analysis is explained in the markdowns before running each function.
 
-# Phase_B_Modeling.ipynb
+### Phase_B_Modeling.ipynb
 This file contains all 3 models. It also has each models RMSE scores, correlation coefficients, and adjusted R^2 calculations, in order to assess their quality.
 
 # How to run our code.
