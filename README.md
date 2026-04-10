@@ -1,7 +1,7 @@
 # GradientDescent_195_Project
 
 ## Everything that contains our codes and interpretations
-
+*Files are split up for ease of documentation*\
 ### Preprocessing.ipynb - Erika
 This file deals with all of the datasets and merges them together for the EDA. Datasets are contained in files named DatasetXData where X is a letter A-C.
 
