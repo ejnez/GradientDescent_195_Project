@@ -31,6 +31,15 @@ https://abmi.ca/publication/601.html
 4. Statistics Canada. Table 32-10-0359-01  Estimated areas, yield, production, average farm price and total farm value of principal field crops, in metric and imperial units"\
     Retrieved April, 2026 from:\
     https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210035901
+   
+6. Wikipedia contributors. (2024). Cook's distance. Wikipedia.\
+   https://en.wikipedia.org/wiki/Cook%27s_distance
+
+7. Wikipedia contributors. (2024). Variance inflation factor. Wikipedia.\
+   https://en.wikipedia.org/wiki/Variance_inflation_factor
+
+8. Wikipedia contributors. (2024). Coefficient of determination. Wikipedia.\
+   https://en.wikipedia.org/wiki/Coefficient_of_determination
 
 
 
