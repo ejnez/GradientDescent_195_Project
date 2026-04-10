@@ -15,7 +15,7 @@ This file performs all of the statistical computations before making the predict
 
 All exploratory Data Analysis is explained in the markdowns before running each function.
 
-### Phase_B_Modeling.ipynb
+### Phase_B_Modeling.ipynb - Arthur 
 This file contains all 3 models. It also has each models RMSE scores, correlation coefficients, and adjusted R^2 calculations, in order to assess their quality.
 
 # How to run our code.
