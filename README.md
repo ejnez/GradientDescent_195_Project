@@ -27,6 +27,8 @@ To run them start in this order:
 * EDA.ipynb
 * Phase_B_Modeling.ipynb
 
+For details, please check out Project Report.md
+
 # Citations
 
 1. Alberta Biodiversity Monitoring Institute. (2021). Terrestrial Field Data Collection Protocols (Abridged Version).\
