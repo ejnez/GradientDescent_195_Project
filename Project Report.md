@@ -1,5 +1,5 @@
 
-**Predicting the Crowd: A Regression Analysis of Alberta Wheat Yields using Eco-Climate Data** 
+**Predicting the Crowd: A Regression Analysis of Alberta Wheat Yields using Eco-Climate Data**\
 Erika Jimenez Gonzalez, Arthur Li.
 
 Alberta's wheat sector contributes substantially to Canadian agricultural output, yet yield 
