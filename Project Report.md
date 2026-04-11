@@ -1,5 +1,3 @@
-# ---
-
 **Predicting the Crowd: A Regression Analysis of Alberta Wheat Yields using Eco-Climate Data**
 
 ## **I. Problem Formulation (7 Marks)**
