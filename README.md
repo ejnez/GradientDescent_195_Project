@@ -1,5 +1,7 @@
 # GradientDescent_195_Project
 
+Full video: https://1drv.ms/v/c/a77ecb6fb253f1fe/IQBD1DH62t_1Q74cWPjPuqiYAcIh0HXQGwzHLSMhA_WXsmc?e=imS7bZ
+
 ## Everything that contains our codes and interpretations
 *Files are split up for ease of documentation*
 
