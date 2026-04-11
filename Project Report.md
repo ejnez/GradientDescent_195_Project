@@ -5,8 +5,8 @@ prediction traditionally relies strictly on direct meteorological measurements. 
 measurements often miss ground-level environmental signals such as soil moisture conditions 
 and localized microclimate variation. Bryophytes, which lack roots and absorb water directly 
 from their surroundings, are recognized as sensitive indicators of ambient moisture and 
-temperature conditions at the ground level. Recent work by Thouvenot et al. (2025) 
-demonstrates that bryophyte species richness in agricultural grasslands responds 
+temperature conditions at the ground level. In 2025 Thouvenot and others  
+demonstrated that bryophyte species richness in agricultural grasslands responds 
 to productivity and land use intensity, suggesting that bryophyte community composition 
 carries ecological information applicable to agricultural contexts. This raises the question of 
 whether bryophyte richness across Alberta encodes environmental signals that meteorological station data cannot.
