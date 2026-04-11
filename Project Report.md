@@ -129,9 +129,9 @@ If future researchers were to repeat this procedure, we strongly recommend aband
 6. Statistics Canada. Table 32-10-0359-01  Estimated areas, yield, production, average farm price and total farm value of principal field crops, in metric and imperial units"  
    Retrieved April, 2026 from:  
    [https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210035901](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210035901)
-7. Thouvenot, L., Ferlian, O., Buscot, F., Frouz, J., Guerra, C. A., Heintz-Buschart, A.,
-   Taudiere, A., & Eisenhauer, N. (2025). Nitrogen enrichment and vascular plant richness 
-   loss reduce bryophyte richness. Scientific Reports, 15, 3951.
+7. Thouvenot, L., Ferlian, O., Buscot, F., Frouz, J., Guerra, C. A., Heintz-Buschart, A.,\
+   Taudiere, A., & Eisenhauer, N. (2025). Nitrogen enrichment and vascular plant richness\ 
+   loss reduce bryophyte richness. Scientific Reports, 15, 3951.\
    https://doi.org/10.1038/s41598-025-88425-2
 8. Wikipedia contributors. (2024). Cook's distance. Wikipedia.  
    [https://en.wikipedia.org/wiki/Cook%27s\_distance](https://en.wikipedia.org/wiki/Cook%27s_distance)  
