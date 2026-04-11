@@ -130,7 +130,7 @@ If future researchers were to repeat this procedure, we strongly recommend aband
    Retrieved April, 2026 from:  
    [https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210035901](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210035901)
 7. Thouvenot, L., Ferlian, O., Buscot, F., Frouz, J., Guerra, C. A., Heintz-Buschart, A.,\
-   Taudiere, A., & Eisenhauer, N. (2025). Nitrogen enrichment and vascular plant richness\ 
+   Taudiere, A., & Eisenhauer, N. (2025). Nitrogen enrichment and vascular plant richness
    loss reduce bryophyte richness. Scientific Reports, 15, 3951.\
    https://doi.org/10.1038/s41598-025-88425-2
 8. Wikipedia contributors. (2024). Cook's distance. Wikipedia.  
